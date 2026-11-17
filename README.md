@@ -1,7 +1,7 @@
-# Project 30: AI Equity Research Dashboard — Institutional-Grade Reports
+# Project 30: AI Equity Research Dashboard: Institutional-Grade Reports
 
 **Category:** FinTech
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -13,9 +13,11 @@ Python, Flask, Gemini 2.0, yFinance, python-docx, Plotly
 
 ## Demo
 
-🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/30.mp4
+[![AI Equity Research Dashboard: Institutional-Grade Reports](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-30-ai-equity-research-dashboard-institutional-grade-reports.jpg)](https://automatrixlab.com/projects/project-30-ai-equity-research-dashboard-institutional-grade-reports/)
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/v3/30-narrated-v3.mp4
+
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-30-ai-equity-research-dashboard-institutional-grade-reports/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +27,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
